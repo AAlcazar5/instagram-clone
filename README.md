@@ -1,6 +1,6 @@
 ## Expo Instagram Clone
 
-Instagram clone built using Expo; has the ability to authenticate the user using Firebase, and take photos as well as see a gallery of other user's photos. User must allow permissions to use camera, however.
+Instagram clone built using Expo; has the ability to authenticate users using Firebase, and take photos as well as see a gallery of other user's photos. User must allow permissions to use camera, however.
 
 To get started:
 
